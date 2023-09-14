@@ -1,0 +1,7 @@
+This is derived from code chapter1.txt code,
+that's executed in terminal
+and it is used to write text within
+a file (which, in this case is chapter1.txt).
+and this whole explaination is I am using as a 
+text within this file, so that I don't have to
+explain it again.
